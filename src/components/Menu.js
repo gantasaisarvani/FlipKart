@@ -15,7 +15,7 @@ import tv from '../images/tv.png';
 function Menu(){
     return(
         <>
-        <div className='row mt-2 com samples'>
+        <div className='row mt-2 com'>
         <div className='col-md-1 '>
               <br></br>
         </div>
