@@ -10,6 +10,7 @@ import home from '../images/home.png';
 import mobile from '../images/mobiles.png';
 import offers from '../images/offers.png';
 import tv from '../images/tv.png';
+Sources;
 
 
 function Menu(){
