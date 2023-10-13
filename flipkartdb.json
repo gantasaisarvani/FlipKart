@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "productId": "435688",
+      "title": "Iphone",
+      "brand": "Apple",
+      "price": "80000",
+      "description": "it is amazing product.",
+      "thumbnail": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 2
+    },
+    {
+      "productId": "123446",
+      "title": "Casual Puff Sleeves Solid Women White Top",
+      "brand": "Rajovati ",
+      "price": "250",
+      "description": "super dress",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/l2arp8w0/top/j/e/a/s-top115-rajovati-original-imagdzbvfbdahtpz.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "productId": "345987",
+      "title": "Women Gold Flats Sandal",
+      "brand": "CARLTON LONDON ",
+      "price": "569",
+      "description": "It is more comfortable ",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/sandal/w/e/w/-original-imagsap2hnyf5dcg.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "productId": "5546783",
+      "title": "Realme C51",
+      "brand": "Realme",
+      "price": "8000",
+      "description": "This smartphone is loaded with features that give wings to your capabilities and improve your performance.",
+      "thumbnail": "https://rukminim2.flixcart.com/image/832/832/xif0q/mobile/b/i/x/-original-imagt4qptrkzwmxa.jpeg?q=70",
+      "id": 5
+    }
+  ]
+}
